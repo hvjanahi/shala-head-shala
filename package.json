@@ -34,6 +34,6 @@
     "mocha": "^3.4.2",
     "nyc": "^11.2.1"
   },
-  "repository": "https://github.com/RubyChi/Udemy-ChatApp.git",
+  "repository": "https://github.com/hvjanahi/shala-head-shala.git",
   "snyk": true
 }
