@@ -7,6 +7,5 @@
     "MongoDB",
     "Socket.IO"
   ],
-  "repository": "https://github.com/hvjanahi/shala-head-shala.git",
-  "addons": ["mongolab:sandbox"]
+  "repository": "https://github.com/hvjanahi/shala-head-shala.git"
 }
