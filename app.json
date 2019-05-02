@@ -1,12 +1,12 @@
 {
-  "name": "udemy-chatapp",
-  "description": "A hands-on project from Udemy: The Complete Node.js Developer Course (2nd Edition)",
+  "name": "shala-head-shala",
+  "description": "The Return Movement",
   "keywords": [
     "Node.js",
     "Express",
     "MongoDB",
     "Socket.IO"
   ],
-  "repository": "https://github.com/rubychi/udemy-chatapp.git",
+  "repository": "https://github.com/hvjanahi/shala-head-shala.git",
   "addons": ["mongolab:sandbox"]
 }
