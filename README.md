@@ -110,7 +110,7 @@ For checking the test coverage and generating the html report:
 
 Click this button to deploy to your Heroku server<br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rubychi/udemy-chatapp)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hvjanahi/shala-head-shala)
 
 ## Built With
 
