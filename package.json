@@ -13,7 +13,7 @@
     "prepare": "npm run snyk-protect"
   },
   "engines": {
-    "node": "6.2.2"
+    "node": "8.15.1"
   },
   "author": "test <test@test.com>",
   "license": "ISC",
